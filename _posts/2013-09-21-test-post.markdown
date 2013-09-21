@@ -1,1 +1,6 @@
+---
+layout: posts
+title: Sweet Post
+---
+
 This is a sweet Markdown post
